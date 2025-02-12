@@ -1,6 +1,6 @@
 # Eclipsed.Light
 _Simple Dead by Daylight unlocker made by Eclipsed_
-
+# ⚠️ WARNING: LIGHT IS DETECTED. DO NOT USE. ⚠️
 ## **Quick Description**
 
 ### - Unlock all Cosmetics
